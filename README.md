@@ -17,5 +17,3 @@ Extension Description:<br>
 If Docker is already installed on your PC, please enter it on the shell:<br>
 - curl -LSO https://github.com/cntos/Docker-To/blob/main/Dov.sh<br>
 - ./Dov.sh<br>
-
-Special Instructions This project belongs to CNTOS,But the Docker are copyrighted by Docker Inc.<br>
